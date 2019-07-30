@@ -1,4 +1,4 @@
-# Multiplication-Table
+# Square-Table
 
 Prints out a multiplication table based on the enduser's input as shown below.
 
